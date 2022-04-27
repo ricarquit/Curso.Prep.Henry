@@ -1,0 +1,37 @@
+h1 {
+    color: crimson;
+    margin-left: 570px;
+   }
+h3 {
+    margin-left: 600px;
+    color: white;
+}
+h4 {
+    margin-left: 550px;
+    color: crimson;
+}
+img {
+    width: 400px;
+    height: 250px;
+    }   
+a {
+    color: white;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: rgb(223, 236, 29);
+    padding: 50px;
+    border: 2px solid blue;
+    margin: auto;
+   }    
+#spanId {
+    font-size: 18px;
+    position: relative;
+    margin-left: 350px;
+    color: yellow;
+}
+body {
+    background-image: url(https://cdn.domestika.org/c_fit,dpr_auto,f_auto,t_base_params,w_820/v1614721373/content-items/007/263/294/R19-original.png?1614721373);
+    
+}
